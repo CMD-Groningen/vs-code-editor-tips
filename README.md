@@ -12,4 +12,4 @@ De editor zelf is hier te downloaden: https://code.visualstudio.com/
 ## Download de PDF hier:
 
 [VSCode editor tips NL.pdf](https://github.com/CMD-Groningen/vs-code-editor-tips/blob/main/VSCode%20editor%20tips%20NL.pdf)
-<img src="thumbnail.png" alt="overview" style="max-width:100%;">
+<a href ="https://github.com/CMD-Groningen/vs-code-editor-tips/blob/main/VSCode%20editor%20tips%20NL.pdf"><img src="thumbnail.png" alt="overview" style="max-width:100%;"></a>
