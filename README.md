@@ -1,7 +1,7 @@
 # VS Code editor tips!
 
 PDF met tips en truuks om VS Code zodanig in te richten en te configureren zodat je razendsnel kan coderen!
-De editor zelf is hier te downloaden: https://code.visualstudio.com/
+
 - bevat tips over hoe je het snelst kan coderen
 - de belangrijkste shortcuts uitgelegd
 - enkele instellingen die je alvast in de settings kan doen om te starten
