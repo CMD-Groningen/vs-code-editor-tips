@@ -10,6 +10,5 @@ PDF met tips en truuks om VS Code zodanig in te richten en te configureren zodat
 
 ## Download de PDF hier:
 
-[VSCode HTML en CSS editor tips NL.pdf](https://github.com/CMD-Groningen/vs-code-editor-tips/blob/main/VSCode%20HTML%20en%20CSS%20editor%20tips%20NL.pdf)
-
+VSCode editor tips NL.pdf(https://github.com/CMD-Groningen/vs-code-editor-tips/blob/main/VSCode%20editor%20tips%20NL.pdf)
 <img src="thumbnail.png" alt="overview" style="max-width:100%;">
