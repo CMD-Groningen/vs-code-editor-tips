@@ -11,5 +11,7 @@ PDF met tips en truuks om VS Code zodanig in te richten en te configureren zodat
 
 ## Download de PDF hier:
 
-[VSCode editor tips NL.pdf](https://github.com/CMD-Groningen/vs-code-editor-tips/blob/main/VSCode%20editor%20tips%20NL.pdf)
-<a href ="https://github.com/CMD-Groningen/vs-code-editor-tips/blob/main/VSCode%20editor%20tips%20NL.pdf"><img src="thumbnail.png" alt="overview" style="max-width:100%;"></a>
+[VSCode editor tips NL.pdf](https://cmd-groningen.github.io/vs-code-editor-tips/vscode-editor-tips-nl.pdf)
+<a href ="https://cmd-groningen.github.io/vs-code-editor-tips/vscode-editor-tips-nl.pdf"><img src="thumbnail.png" alt="overview" style="max-width:100%;">
+<img src="thumbnail.png">
+</a>
